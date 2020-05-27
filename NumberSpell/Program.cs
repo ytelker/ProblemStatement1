@@ -6,7 +6,7 @@ namespace NumberSpell
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }

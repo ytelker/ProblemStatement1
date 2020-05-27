@@ -12,3 +12,6 @@ C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\De
 C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.csproj.CopyComplete
 C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.dll
 C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.pdb
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\NumberSpell.exe
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\NumberSpell.pdb
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\NumberSpell.exe.config

@@ -9,6 +9,14 @@ namespace NumberSpell.Test
         [TestMethod]
         public void TestMethod1()
         {
+            //Arrange
+            int testData = 1234;
+
+            //Act
+            string spell = SpellNumber.GetSpell(testData);
+
+            //Assert
+            Assert.IsNotNull(spell);           
         }
     }
 }
