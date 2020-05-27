@@ -1,0 +1,7 @@
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\bin\Debug\NumberSpell.exe.config
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\bin\Debug\NumberSpell.exe
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\bin\Debug\NumberSpell.pdb
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\obj\Debug\NumberSpell.csprojAssemblyReference.cache
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\obj\Debug\NumberSpell.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\obj\Debug\NumberSpell.exe
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell\obj\Debug\NumberSpell.pdb
