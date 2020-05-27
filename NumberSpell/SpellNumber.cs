@@ -49,6 +49,44 @@ namespace NumberSpell
                 return numberSpell = singleDigits[digits[0] - '0'];
             }
 
+            int index = 0;
+            while (index < digits.Length)
+            {
+                if (length >= 3)
+                {
+                    if (digits[index] - '0' != 0)
+                    {
+                        numberSpell += singleDigits[digits[index] - '0'] + " " + tensPower[length - 3] + " ";
+                    }
+                    --length;
+                }
+                else
+                {
+                    if (digits[index] - '0' == 1)
+                    {
+                        int sum = digits[index] - '0' + digits[index] - '0';
+                        numberSpell += doubleDigits[sum];
+                    }
+                    else if (digits[index] - '0' == 2 && digits[index + 1] - '0' == 0)
+                    {
+                        numberSpell += "twenty";
+                    }
+                    else
+                    {
+                        int i = (digits[index] - '0');
+
+                        if (i > 0)
+                            numberSpell += tensMultiple[i] + " ";
+                        else
+                            numberSpell += "";
+
+                        ++index;
+                        if (digits[index] - '0' != 0)
+                            numberSpell += singleDigits[digits[index] - '0'];
+                    }
+                }
+                ++index;
+            }
 
             return numberSpell;
         }
