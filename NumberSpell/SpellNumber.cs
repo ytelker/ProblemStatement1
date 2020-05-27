@@ -18,7 +18,9 @@ namespace NumberSpell
         /// <returns>Spell for the given number.</returns>
         public static string GetSpell(int number)
         {
-            return null;
+            string numberSpell = string.Empty;
+
+            return numberSpell;
         }
     }
 }
