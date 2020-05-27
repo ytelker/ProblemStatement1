@@ -28,6 +28,28 @@ namespace NumberSpell
                 return numberSpell = "Number not provided.";
             }
 
+            string[] singleDigits = new string[]{  "zero", "one", "two",
+                                                   "three", "four", "five",
+                                                   "six", "seven", "eight",
+                                                   "nine"};
+
+            string[] doubleDigits = new string[]{"", "ten", "eleven", "twelve",
+                                                   "thirteen", "fourteen",
+                                                   "fifteen", "sixteen", "seventeen",
+                                                   "eighteen", "nineteen"};
+
+            string[] tensMultiple = new string[]{"", "", "twenty", "thirty",
+                                                  "forty", "fifty","sixty",
+                                                  "seventy", "eighty", "ninety"};
+
+            string[] tensPower = new string[] { "hundred", "thousand" };
+
+            if (length == 1)
+            {
+                return numberSpell = singleDigits[digits[0] - '0'];
+            }
+
+
             return numberSpell;
         }
     }
