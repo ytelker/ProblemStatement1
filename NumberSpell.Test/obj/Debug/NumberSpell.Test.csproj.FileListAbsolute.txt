@@ -1,0 +1,14 @@
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\NumberSpell.Test.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\NumberSpell.Test.pdb
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.csprojAssemblyReference.cache
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.csproj.CoreCompileInputs.cache
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.csproj.CopyComplete
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.dll
+C:\Users\DellUser\source\repos\ytelker\ProblemStatement1\NumberSpell.Test\obj\Debug\NumberSpell.Test.pdb
