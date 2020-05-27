@@ -20,6 +20,14 @@ namespace NumberSpell
         {
             string numberSpell = string.Empty;
 
+            char[] digits = number.ToString().ToCharArray();
+            int length = digits.Length;
+
+            if (length == 0)
+            {
+                return numberSpell = "Number not provided.";
+            }
+
             return numberSpell;
         }
     }
